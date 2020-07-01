@@ -1,2 +1,2 @@
 # Twitter-sentiment-analysis
-Sentiment analysis using twitter API using python
+Sentiment analysis with twitter API using python
